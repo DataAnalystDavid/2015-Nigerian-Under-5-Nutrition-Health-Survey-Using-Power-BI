@@ -27,10 +27,9 @@ Only 16.6% of children were dewormed, falling short of public health goals and p
  Inequitable Resource Distribution
 
 Mosquito net coverage was disproportionately low in Southeast (SE) and Northwest (NW) despite high malaria risks, suggesting failed public health distribution systems.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
-**<u>Data-Driven Recommendations</u>**
+**Data-Driven Recommendations:**
 
 Targeted SAM interventions in NW/NE zones (therapeutic feeding programs).
 
