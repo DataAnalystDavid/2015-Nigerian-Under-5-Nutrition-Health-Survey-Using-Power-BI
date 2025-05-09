@@ -30,7 +30,7 @@ Mosquito net coverage was disproportionately low in Southeast (SE) and Northwest
 
  
 
-Data-Driven Recommendations
+**<u>Data-Driven Recommendations</u>**
 
 Targeted SAM interventions in NW/NE zones (therapeutic feeding programs).
 
